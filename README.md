@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add plot_images conf_thresh parameter (#8446)
