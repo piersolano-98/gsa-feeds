@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
