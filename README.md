@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
