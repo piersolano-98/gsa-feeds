@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Expand Model method type hinting (#8279)
