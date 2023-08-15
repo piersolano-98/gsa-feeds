@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
