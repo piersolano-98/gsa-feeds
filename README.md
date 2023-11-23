@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
