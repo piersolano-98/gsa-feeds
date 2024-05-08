@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Update format.yml to pull_request_target (#7460)
