@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Compare plt.get_backend() in lowercase (#8409)
