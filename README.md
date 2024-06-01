@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+New HUB Cloud Training docs page (#8174)
