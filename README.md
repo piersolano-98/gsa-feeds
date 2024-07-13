@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
