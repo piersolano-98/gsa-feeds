@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Allow Annotator PIL.Image inputs (#8397)
