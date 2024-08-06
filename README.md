@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Reverse IoU threshold for NMS docs descriptions (#9151)
